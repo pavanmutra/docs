@@ -10,3 +10,9 @@ head file	display the first few lines of a file
 tail file	display the last few lines of a file
 grep 'keyword' file	search a file for keywords
 wc file	count number of lines/words/characters in file
+
+searching content of file 
+
+less science.txt
+/science
+press n to see next occarance
