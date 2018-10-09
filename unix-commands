@@ -16,3 +16,13 @@ searching content of file
 less science.txt
 /science
 press n to see next occarance
+
+grep science science.txt case sensitive
+
+grep -i science science.txt ignore case sensitive
+
+grep -i 'spinning top' science.txt search a pattern
+
+-v omit results contains text
+-n display results with line numbers
+-c count the accorance
